@@ -32,7 +32,7 @@ git clone https://github.com/SamarthSaxena10/NFT-Minting-Dapp.git
 ```shell
 npm install
 ```
-
+                   
 3. In .env and add the values
 
 ```shell
