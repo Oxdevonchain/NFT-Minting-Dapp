@@ -38,7 +38,7 @@ npm install
 ```shell
 PRIVATE_KEY=
 ```
-
+   
 4. Compile and Deploy the Contract
 
 ```shell
