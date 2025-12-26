@@ -59,7 +59,7 @@ const contractAddress = "";
 const pinataApiKey = "";
 const pinataSecretApiKey = "";
 ```
-
+  
 7. Run the app
 
 ```shell
