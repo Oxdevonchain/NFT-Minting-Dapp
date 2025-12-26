@@ -2,9 +2,7 @@
 
 This is an overview of a NFT minting dapp on Shardeum.
 
-![result](https://iili.io/HtJUdG9.png)
-
-Here's the Tutorial Video --> [Video Link](https://youtu.be/NTwpC_HVLP8)
+Here's the Tutorial Video --> [Video Link]
 
 ## Tech Stack Used
 
@@ -14,15 +12,13 @@ Here's the Tutorial Video --> [Video Link](https://youtu.be/NTwpC_HVLP8)
 - Solidity
 - Pinata
 - Material UI
-- Webpack
 
 ## Features
 
 - Connect Wallet & See Wallet address & balance
 - Upload Images/Jpeg/Videos directly to IPFS before minting
 - Mint on Shardeum Testnet
-- Intuitive UI statuses for minting
-
+- 
 ## How to run
 
 1. Clone the repo
